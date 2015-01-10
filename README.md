@@ -1,2 +1,1 @@
-# hello-world
-My first repository on GitHub.
+I love gaming, youtube, photography, programming and reading.
